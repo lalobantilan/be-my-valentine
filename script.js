@@ -44,10 +44,10 @@ function generateMessage(noCount) {
   const messages = [
     "No",
     "Are you sure?",
-    "Pookie please",
-    "Don't do this to me :(",
+    "babi please",
+    "i miss you napo did you miss me?:(",
     "You're breaking my heart",
-    "I'm gonna cry...",
+    "cry nako...",
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
